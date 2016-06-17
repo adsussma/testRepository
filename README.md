@@ -1,3 +1,3 @@
 # testRepository
-Just a test Repository for test files
+Just a test Repository for test files.
 Nothing to see here
